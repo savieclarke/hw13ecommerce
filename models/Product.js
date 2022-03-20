@@ -36,7 +36,7 @@ Product.init(
     category_id: {
       type: DataTypes.INTEGER,
     //belongsTo: id,
-    references: {
+    belongsTo: {
       column: 'id',
   
   }
