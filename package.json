@@ -8,7 +8,6 @@
     "start": "node server.js",
     "seed": ""
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/savieclarke/hw13ecommerce.git"
